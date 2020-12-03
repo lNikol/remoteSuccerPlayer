@@ -1,5 +1,7 @@
 #include <iostream>
+#include "SoccerPlayer.h"
+
 using namespace std;
-class SoccerPlayer {
-	int 
-};
+int main() {
+
+}
